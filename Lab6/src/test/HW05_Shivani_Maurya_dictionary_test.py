@@ -1,7 +1,11 @@
 import unittest
-from python.HW03_Shivani_Maurya_dictionary import *
 from unittest.mock import patch, mock_open
 import os
+import sys
+from unittest.mock import MagicMock
+magicMock = MagicMock()
+sys.modules['HW_Shivani_Maurya_utility'] = magicMock
+from python.HW03_Shivani_Maurya_dictionary import *
 
 class Test(unittest.TestCase):
 
@@ -11,7 +15,7 @@ class Test(unittest.TestCase):
         path = os.path.abspath("../../src/resources/words.txt")
         words = open(path, "r").read().split()
         mock_file.read_data = words
-        assert readDictWords() == mock_file.read_data
+        assert readDictWordsFive() == mock_file.read_data
         # mock_file.assert_called_with(path)
         
         

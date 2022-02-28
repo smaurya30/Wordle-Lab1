@@ -3,6 +3,7 @@ from unittest.mock import patch, MagicMock
 magicMock = MagicMock()
 sys.modules['HW03_Shivani_Maurya_wordle'] = magicMock
 sys.modules['HW03_Shivani_Maurya_dictionary'] = magicMock
+sys.modules['HW_Shivani_Maurya_utility'] = magicMock
 from python.HW03_Shivani_Maurya_ui import checkWordle
 
 
