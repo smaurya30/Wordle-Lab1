@@ -1,0 +1,66 @@
+root - INFO - Wordle word set: {'bytes'}
+root - INFO - Wordle word: bytes
+root - INFO - Input word: match
+root - INFO - Input word: 
+root - INFO - Games Played: 0
+root - INFO - Win Percent: 0
+root - INFO - Win count: 0
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 0, '5': 0, '6': 0}
+root - INFO - Exited game
+root - INFO - Wordle word set: {'sarah'}
+root - INFO - Wordle word set: {'twins'}
+root - INFO - Wordle word: twins
+root - INFO - Input word: catch
+root - INFO - Input word: tasks
+root - INFO - Input word: tiles
+root - INFO - Input word: twins
+root - INFO - Word guessed
+root - INFO - Games Played: 1
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 1
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 1, '5': 0, '6': 0}
+root - INFO - Wordle word set: {'booth', 'twins'}
+root - INFO - Wordle word: booth
+root - INFO - Input word: booth
+root - INFO - Word guessed
+root - INFO - Games Played: 2
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 2
+root - INFO - Counter: {'1': 1, '2': 0, '3': 0, '4': 1, '5': 0, '6': 0}
+root - INFO - Wordle word set: {'booth', 'twins', 'baker'}
+root - INFO - Wordle word: baker
+root - INFO - Input word: baker
+root - INFO - Word guessed
+root - INFO - Games Played: 3
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 3
+root - INFO - Counter: {'1': 2, '2': 0, '3': 0, '4': 1, '5': 0, '6': 0}
+root - INFO - Wordle word set: {'booth', 'myers', 'twins', 'baker'}
+root - INFO - Wordle word: myers
+root - INFO - Input word: 
+root - INFO - Games Played: 3
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 3
+root - INFO - Counter: {'1': 2, '2': 0, '3': 0, '4': 1, '5': 0, '6': 0}
+root - INFO - Exited game
+root - INFO - Wordle word set: {'relax'}
+root - INFO - Wordle word: relax
+root - INFO - Input word: rules
+root - INFO - Input word: relax
+root - INFO - Word guessed
+root - INFO - Games Played: 1
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 1
+root - INFO - Counter: {'1': 0, '2': 1, '3': 0, '4': 0, '5': 0, '6': 0}
+root - INFO - Wordle word set: {'nancy', 'relax'}
+root - INFO - Wordle word: nancy
+root - INFO - Input word: night
+root - INFO - Input word: nancy
+root - INFO - Word guessed
+root - INFO - Games Played: 2
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 2
+root - INFO - Counter: {'1': 0, '2': 2, '3': 0, '4': 0, '5': 0, '6': 0}
+root - INFO - Wordle word set: {'nancy', 'sound', 'relax'}
+root - INFO - Wordle word: sound
+root - INFO - Wordle word set: {'larry'}
