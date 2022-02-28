@@ -1,0 +1,51 @@
+root - INFO - {'frame'}
+root - INFO - Wordle word: frame
+root - INFO - Input word: frame
+root - INFO - Word guessed
+root - INFO - Games Played: 1
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 1
+root - INFO - Counter: {'1': 1, '2': 0, '3': 0, '4': 0, '5': 0, '6': 0}
+root - INFO - {'girls', 'frame'}
+root - INFO - Wordle word: girls
+root - INFO - Input word: grill
+root - INFO - Input word: girls
+root - INFO - Word guessed
+root - INFO - Games Played: 2
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 2
+root - INFO - Counter: {'1': 1, '2': 1, '3': 0, '4': 0, '5': 0, '6': 0}
+root - INFO - {'audit', 'girls', 'frame'}
+root - INFO - Wordle word: audit
+root - INFO - Input word: 
+root - INFO - Games Played: 2
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 2
+root - INFO - Counter: {'1': 1, '2': 1, '3': 0, '4': 0, '5': 0, '6': 0}
+root - INFO - Exited game
+root - INFO - Wordle word set: {'frost'}
+root - INFO - Wordle word: frost
+root - INFO - Input word: first
+root - INFO - Input word: frost
+root - INFO - Word guessed
+root - INFO - Games Played: 1
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 1
+root - INFO - Counter: {'1': 0, '2': 1, '3': 0, '4': 0, '5': 0, '6': 0}
+root - INFO - Wordle word set: {'stops', 'frost'}
+root - INFO - Wordle word: stops
+root - INFO - Input word: steps
+root - INFO - Input word: stops
+root - INFO - Word guessed
+root - INFO - Games Played: 2
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 2
+root - INFO - Counter: {'1': 0, '2': 2, '3': 0, '4': 0, '5': 0, '6': 0}
+root - INFO - Wordle word set: {'stops', 'frost', 'cisco'}
+root - INFO - Wordle word: cisco
+root - INFO - Input word: 
+root - INFO - Games Played: 2
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 2
+root - INFO - Counter: {'1': 0, '2': 2, '3': 0, '4': 0, '5': 0, '6': 0}
+root - INFO - Exited game
