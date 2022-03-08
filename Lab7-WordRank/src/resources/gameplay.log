@@ -1,0 +1,21 @@
+root - INFO - Wordle word set: {'gamma'}
+root - INFO - Wordle word: gamma
+root - INFO - Wordle word set: {'trust'}
+root - INFO - Wordle word: trust
+root - INFO - Input word: 
+root - INFO - Games Played: 0
+root - INFO - Win Percent: 0
+root - INFO - Win count: 0
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 0, '5': 0, '6': 0}
+root - INFO - Exited game
+root - INFO - Wordle word set: {'upset'}
+root - INFO - Wordle word: upset
+root - INFO - Input word: match
+root - INFO - Input word: tasks
+root - INFO - Input word: 
+root - INFO - Games Played: 0
+root - INFO - Win Percent: 0
+root - INFO - Win count: 0
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 0, '5': 0, '6': 0}
+root - INFO - Exited game
+root - INFO - Wordle word set: {'decor'}
