@@ -1,0 +1,110 @@
+root - INFO - Wordle word set: {'ideal'}
+root - INFO - Wordle word: ideal
+root - INFO - Input word: match
+root - INFO - Input word: bikes
+root - INFO - Input word: ideal
+root - INFO - Word guessed
+root - INFO - Games Played: 1
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 1
+root - INFO - Counter: {'1': 0, '2': 0, '3': 1, '4': 0, '5': 0, '6': 0}
+root - INFO - Wordle word set: {'feeds', 'ideal'}
+root - INFO - Wordle word: feeds
+root - INFO - Input word: feeds
+root - INFO - Word guessed
+root - INFO - Games Played: 2
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 2
+root - INFO - Counter: {'1': 1, '2': 0, '3': 1, '4': 0, '5': 0, '6': 0}
+root - INFO - Wordle word set: {'feeds', 'colin', 'ideal'}
+root - INFO - Wordle word: colin
+root - INFO - Input word: 
+root - INFO - Games Played: 2
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 2
+root - INFO - Counter: {'1': 1, '2': 0, '3': 1, '4': 0, '5': 0, '6': 0}
+root - INFO - Exited game
+root - INFO - Wordle word set: {'media'}
+root - INFO - Wordle word: media
+root - INFO - Input word: bikes
+root - INFO - Input word: river
+root - INFO - Input word: media
+root - INFO - Word guessed
+root - INFO - Games Played: 1
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 1
+root - INFO - Counter: {'1': 0, '2': 0, '3': 1, '4': 0, '5': 0, '6': 0}
+root - INFO - Wordle word set: {'bytes', 'media'}
+root - INFO - Wordle word: bytes
+root - INFO - Wordle word set: {'empty'}
+root - INFO - Wordle word: empty
+root - INFO - Input word: match
+root - INFO - Wordle word set: {'close'}
+root - INFO - Wordle word: close
+root - INFO - Input word: match
+root - INFO - Input word: close
+root - INFO - Word guessed
+root - INFO - Games Played: 1
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 1
+root - INFO - Counter: {'1': 0, '2': 1, '3': 0, '4': 0, '5': 0, '6': 0}
+root - INFO - Wordle word set: {'close', 'ellis'}
+root - INFO - Wordle word: ellis
+root - INFO - Input word: ellis
+root - INFO - Word guessed
+root - INFO - Games Played: 2
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 2
+root - INFO - Counter: {'1': 1, '2': 1, '3': 0, '4': 0, '5': 0, '6': 0}
+root - INFO - Wordle word set: {'close', 'ellis', 'abuse'}
+root - INFO - Wordle word: abuse
+root - INFO - Input word: abuse
+root - INFO - Word guessed
+root - INFO - Games Played: 3
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 3
+root - INFO - Counter: {'1': 2, '2': 1, '3': 0, '4': 0, '5': 0, '6': 0}
+root - INFO - Wordle word set: {'close', 'ellis', 'abuse', 'noted'}
+root - INFO - Wordle word: noted
+root - INFO - Input word: 
+root - INFO - Games Played: 3
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 3
+root - INFO - Counter: {'1': 2, '2': 1, '3': 0, '4': 0, '5': 0, '6': 0}
+root - INFO - Exited game
+root - INFO - Wordle word set: {'hello'}
+root - INFO - Wordle word: hello
+root - INFO - Input word: match
+root - INFO - Input word: hello
+root - INFO - Word guessed
+root - INFO - Games Played: 1
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 1
+root - INFO - Counter: {'1': 0, '2': 1, '3': 0, '4': 0, '5': 0, '6': 0}
+root - INFO - Wordle word set: {'hello', 'basin'}
+root - INFO - Wordle word: basin
+root - INFO - Input word: basin
+root - INFO - Word guessed
+root - INFO - Games Played: 2
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 2
+root - INFO - Counter: {'1': 1, '2': 1, '3': 0, '4': 0, '5': 0, '6': 0}
+root - INFO - Wordle word set: {'samoa', 'hello', 'basin'}
+root - INFO - Wordle word: samoa
+root - INFO - Input word: small
+root - INFO - Input word: 
+root - INFO - Games Played: 2
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 2
+root - INFO - Counter: {'1': 1, '2': 1, '3': 0, '4': 0, '5': 0, '6': 0}
+root - INFO - Exited game
+root - INFO - Wordle word set: {'jamie'}
+root - INFO - <MagicMock name='mock.Dictionary().getWord().__radd__()' id='2096806519056'>
+root - INFO - <MagicMock name='mock.Dictionary().getWord().__radd__()' id='2650289059296'>
+root - INFO - <MagicMock name='mock.Dictionary().getWord().__radd__()' id='2003628046368'>
+root - INFO - <MagicMock name='mock.Dictionary().getWord().__radd__()' id='2752588380288'>
+root - INFO - <MagicMock name='mock.Dictionary().getWord().__radd__()' id='1185244887072'>
+root - INFO - <MagicMock name='mock.Dictionary().getWord().__radd__()' id='2605118027904'>
+root - INFO - <MagicMock name='mock.Dictionary().getWord().__radd__()' id='2121209313408'>
+root - INFO - <MagicMock name='mock.Dictionary().getWord().__radd__()' id='2985685055616'>
+root - INFO - <MagicMock name='mock.Dictionary().getWord().__radd__()' id='1662193661984'>
