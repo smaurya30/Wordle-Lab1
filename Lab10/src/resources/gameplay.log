@@ -1,0 +1,527 @@
+root - INFO - Wordle word set: {'usage'}
+root - INFO - Wordle word: usage
+root - INFO - Input word: match
+root - INFO - Input word: 
+root - INFO - Games Played: 0
+root - INFO - Win Percent: 0
+root - INFO - Win count: 0
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 0, '5': 0, '6': 0}
+root - INFO - Exited game
+root - INFO - Wordle word set: {'relax'}
+root - INFO - Wordle word: relax
+root - INFO - Wordle word set: {'fibre'}
+root - INFO - Wordle word: fibre
+root - INFO - Wordle word set: {'stats'}
+root - INFO - Wordle word: stats
+root - INFO - Wordle word set: {'rates'}
+root - INFO - Wordle word: rates
+root - INFO - Input word: 
+root - INFO - Games Played: 0
+root - INFO - Win Percent: 0
+root - INFO - Win count: 0
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 0, '5': 0, '6': 0}
+root - INFO - Exited game
+root - INFO - Wordle word set: {'admit'}
+root - INFO - Wordle word: admit
+root - INFO - Wordle word set: {'hayes'}
+root - INFO - Wordle word: hayes
+root - INFO - Wordle word set: {'remix'}
+root - INFO - Wordle word: remix
+root - INFO - Wordle word set: {'badly'}
+root - INFO - Wordle word: badly
+root - INFO - Wordle word set: {'color'}
+root - INFO - Wordle word: color
+root - INFO - Wordle word set: {'porno'}
+root - INFO - Wordle word: porno
+root - INFO - Wordle word set: {'today'}
+root - INFO - Wordle word: today
+root - INFO - Wordle word set: {'taste'}
+root - INFO - Wordle word: taste
+root - INFO - Input word: 
+root - INFO - Games Played: 0
+root - INFO - Win Percent: 0
+root - INFO - Win count: 0
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 0, '5': 0, '6': 0}
+root - INFO - Exited game
+root - INFO - Wordle word set: {'setup'}
+root - INFO - Wordle word: setup
+root - INFO - Wordle word set: {'cloud'}
+root - INFO - Wordle word: cloud
+root - INFO - Input word: 
+root - INFO - Games Played: 0
+root - INFO - Win Percent: 0
+root - INFO - Win count: 0
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 0, '5': 0, '6': 0}
+root - INFO - Exited game
+root - INFO - Wordle word set: {'fares'}
+root - INFO - Wordle word: fares
+root - INFO - Wordle word set: {'brian'}
+root - INFO - Wordle word: brian
+root - INFO - Wordle word set: {'floor'}
+root - INFO - Wordle word: floor
+root - INFO - Wordle word set: {'wheel'}
+root - INFO - Wordle word: wheel
+root - INFO - Wordle word set: {'glory'}
+root - INFO - Wordle word: glory
+root - INFO - Wordle word set: {'frame'}
+root - INFO - Wordle word: frame
+root - INFO - Wordle word set: {'juice'}
+root - INFO - Wordle word: juice
+root - INFO - Input word: match
+root - INFO - Wordle word set: {'bread'}
+root - INFO - Wordle word: bread
+root - INFO - Input word: match
+root - INFO - Input word: alien
+root - INFO - Input word: break
+root - INFO - Input word: 
+root - INFO - Games Played: 0
+root - INFO - Win Percent: 0
+root - INFO - Win count: 0
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 0, '5': 0, '6': 0}
+root - INFO - Exited game
+root - INFO - Wordle word set: {'alarm'}
+root - INFO - Wordle word: alarm
+root - INFO - Input word: match
+root - INFO - Input word: stats
+root - INFO - Input word: 
+root - INFO - Games Played: 0
+root - INFO - Win Percent: 0
+root - INFO - Win count: 0
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 0, '5': 0, '6': 0}
+root - INFO - Exited game
+root - INFO - Wordle word set: {'scary'}
+root - INFO - Wordle word: scary
+root - INFO - Input word: fails
+root - INFO - Input word: scale
+root - INFO - Input word: calls
+root - INFO - Input word: scary
+root - INFO - Word guessed
+root - INFO - Games Played: 1
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 1
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 1, '5': 0, '6': 0}
+root - INFO - Wordle word set: {'derek', 'scary'}
+root - INFO - Wordle word: derek
+root - INFO - Input word: prude
+root - INFO - Input word: pride
+root - INFO - Input word: drive
+root - INFO - Input word: 
+root - INFO - Games Played: 1
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 1
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 1, '5': 0, '6': 0}
+root - INFO - Exited game
+root - INFO - Wordle word set: {'until'}
+root - INFO - Wordle word: until
+root - INFO - Input word: match
+root - INFO - Input word: 
+root - INFO - Games Played: 0
+root - INFO - Win Percent: 0
+root - INFO - Win count: 0
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 0, '5': 0, '6': 0}
+root - INFO - Exited game
+root - INFO - Wordle word set: {'month'}
+root - INFO - Wordle word: month
+root - INFO - Input word: match
+root - INFO - Input word: smith
+root - INFO - Input word: mouth
+root - INFO - Input word: month
+root - INFO - Word guessed
+root - INFO - Games Played: 1
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 1
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 1, '5': 0, '6': 0}
+root - INFO - Wordle word set: {'month', 'yacht'}
+root - INFO - Wordle word: yacht
+root - INFO - Input word: carry
+root - INFO - Input word: nancy
+root - INFO - Input word: casey
+root - INFO - Input word: yacht
+root - INFO - Word guessed
+root - INFO - Games Played: 2
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 2
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 2, '5': 0, '6': 0}
+root - INFO - Wordle word set: {'month', 'yacht', 'shame'}
+root - INFO - Wordle word: shame
+root - INFO - Input word: apple
+root - INFO - Input word: armed
+root - INFO - Input word: omega
+root - INFO - Input word: makes
+root - INFO - Input word: james
+root - INFO - Input word: 
+root - INFO - Games Played: 2
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 2
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 2, '5': 0, '6': 0}
+root - INFO - Exited game
+root - INFO - Wordle word set: {'years'}
+root - INFO - Wordle word: years
+root - INFO - Input word: sales
+root - INFO - Input word: cause
+root - INFO - Input word: snake
+root - INFO - Input word: exams
+root - INFO - Input word: raise
+root - INFO - Input word: tears
+root - INFO - Attempts exhausted
+root - INFO - Games Played: 1
+root - INFO - Win Percent: 0.0
+root - INFO - Win count: 0
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 0, '5': 0, '6': 0}
+root - INFO - Wordle word set: {'years', 'punch'}
+root - INFO - Wordle word: punch
+root - INFO - Input word: grass
+root - INFO - Input word: 
+root - INFO - Games Played: 1
+root - INFO - Win Percent: 0.0
+root - INFO - Win count: 0
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 0, '5': 0, '6': 0}
+root - INFO - Exited game
+root - INFO - Wordle word set: {'pearl'}
+root - INFO - Wordle word: pearl
+root - INFO - Input word: catch
+root - INFO - Wordle word set: {'truly'}
+root - INFO - Wordle word: truly
+root - INFO - Input word: apple
+root - INFO - Wordle word set: {'lucia'}
+root - INFO - Wordle word: lucia
+root - INFO - Input word: tears
+root - INFO - Input word: 
+root - INFO - Games Played: 0
+root - INFO - Win Percent: 0
+root - INFO - Win count: 0
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 0, '5': 0, '6': 0}
+root - INFO - Exited game
+root - INFO - Wordle word set: {'mysql'}
+root - INFO - Wordle word: mysql
+root - INFO - Input word: tears
+root - INFO - Input word: loops
+root - INFO - Input word: milfs
+root - INFO - Input word: mysql
+root - INFO - Word guessed
+root - INFO - Games Played: 1
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 1
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 1, '5': 0, '6': 0}
+root - INFO - Wordle word set: {'devel', 'mysql'}
+root - INFO - Wordle word: devel
+root - INFO - Input word: 
+root - INFO - Games Played: 1
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 1
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 1, '5': 0, '6': 0}
+root - INFO - Exited game
+root - INFO - Wordle word set: {'charm'}
+root - INFO - Wordle word: charm
+root - INFO - Input word: 
+root - INFO - Games Played: 0
+root - INFO - Win Percent: 0
+root - INFO - Win count: 0
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 0, '5': 0, '6': 0}
+root - INFO - Exited game
+root - INFO - Wordle word set: {'acres'}
+root - INFO - Wordle word: acres
+root - INFO - Input word: bones
+root - INFO - Input word: usage
+root - INFO - Input word: space
+root - INFO - Input word: casey
+root - INFO - Input word: races
+root - INFO - Input word: acres
+root - INFO - Word guessed
+root - INFO - Games Played: 1
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 1
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 0, '5': 0, '6': 1}
+root - INFO - Wordle word set: {'acres', 'bands'}
+root - INFO - Wordle word: bands
+root - INFO - Input word: 
+root - INFO - Games Played: 1
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 1
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 0, '5': 0, '6': 1}
+root - INFO - Exited game
+root - INFO - Wordle word set: {'cents'}
+root - INFO - Wordle word: cents
+root - INFO - Input word: lanes
+root - INFO - Wordle word set: {'irish'}
+root - INFO - Wordle word: irish
+root - INFO - Input word: match
+root - INFO - Wordle word set: {'voice'}
+root - INFO - Wordle word: voice
+root - INFO - Input word: match
+root - INFO - Wordle word set: {'taste'}
+root - INFO - Wordle word: taste
+root - INFO - Input word: tries
+root - INFO - Input word: taste
+root - INFO - Word guessed
+root - INFO - Games Played: 1
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 1
+root - INFO - Counter: {'1': 0, '2': 1, '3': 0, '4': 0, '5': 0, '6': 0}
+root - INFO - Wordle word set: {'meals', 'taste'}
+root - INFO - Wordle word: meals
+root - INFO - Wordle word set: {'boxed'}
+root - INFO - Wordle word set: {'perth'}
+root - INFO - Wordle word set: {'there'}
+root - INFO - Wordle word set: {'beans'}
+root - INFO - Wordle word: beans
+root - INFO - Input word: sales
+root - INFO - Wordle word set: {'about'}
+root - INFO - Wordle word: about
+root - INFO - Input word: sales
+root - INFO - Wordle word set: {'slots'}
+root - INFO - Wordle word: slots
+root - INFO - Input word: sales
+root - INFO - Wordle word set: {'dream'}
+root - INFO - Wordle word: dream
+root - INFO - Input word: drool
+root - INFO - Input word: drive
+root - INFO - Wordle word set: {'draws'}
+root - INFO - Wordle word: draws
+root - INFO - Input word: sales
+root - INFO - Wordle word set: {'slide'}
+root - INFO - Wordle word: slide
+root - INFO - Input word: mines
+root - INFO - Wordle word set: {'falls'}
+root - INFO - Wordle word: falls
+root - INFO - Input word: tones
+root - INFO - Wordle word set: {'armed'}
+root - INFO - Wordle word: armed
+root - INFO - Input word: bones
+root - INFO - Wordle word set: {'lucas'}
+root - INFO - Wordle word: lucas
+root - INFO - Input word: fares
+root - INFO - Input word: 
+root - INFO - Games Played: 0
+root - INFO - Win Percent: 0
+root - INFO - Win count: 0
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 0, '5': 0, '6': 0}
+root - INFO - Exited game
+root - INFO - Wordle word set: {'ideas'}
+root - INFO - Wordle word: ideas
+root - INFO - Input word: shoes
+root - INFO - Wordle word set: {'herbs'}
+root - INFO - Wordle word: herbs
+root - INFO - Input word: tries
+root - INFO - Wordle word set: {'latex'}
+root - INFO - Wordle word: latex
+root - INFO - Input word: small
+root - INFO - Wordle word set: {'north'}
+root - INFO - Wordle word: north
+root - INFO - Input word: occur
+root - INFO - Wordle word set: {'alter'}
+root - INFO - Wordle word: alter
+root - INFO - Input word: small
+root - INFO - Wordle word set: {'fotos'}
+root - INFO - Wordle word: fotos
+root - INFO - Input word: title
+root - INFO - Wordle word set: {'feels'}
+root - INFO - Wordle word: feels
+root - INFO - Input word: small
+root - INFO - Input word: pools
+root - INFO - Input word: feels
+root - INFO - Word guessed
+root - INFO - Games Played: 1
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 1
+root - INFO - Counter: {'1': 0, '2': 0, '3': 1, '4': 0, '5': 0, '6': 0}
+root - INFO - Wordle word set: {'tunes', 'feels'}
+root - INFO - Wordle word: tunes
+root - INFO - Input word: sales
+root - INFO - Input word: bytes
+root - INFO - Input word: tunes
+root - INFO - Word guessed
+root - INFO - Games Played: 2
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 2
+root - INFO - Counter: {'1': 0, '2': 0, '3': 2, '4': 0, '5': 0, '6': 0}
+root - INFO - Wordle word set: {'tunes', 'feels', 'audit'}
+root - INFO - Wordle word: audit
+root - INFO - Wordle word set: {'those'}
+root - INFO - Wordle word: those
+root - INFO - Input word: horse
+root - INFO - Input word: whose
+root - INFO - Input word: those
+root - INFO - Word guessed
+root - INFO - Games Played: 1
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 1
+root - INFO - Counter: {'1': 0, '2': 0, '3': 1, '4': 0, '5': 0, '6': 0}
+root - INFO - Wordle word set: {'punch', 'those'}
+root - INFO - Wordle word: punch
+root - INFO - Input word: sorts
+root - INFO - Input word: villa
+root - INFO - Input word: ended
+root - INFO - Input word: funky
+root - INFO - Input word: punch
+root - INFO - Word guessed
+root - INFO - Games Played: 2
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 2
+root - INFO - Counter: {'1': 0, '2': 0, '3': 1, '4': 0, '5': 1, '6': 0}
+root - INFO - Wordle word set: {'punch', 'those', 'bryan'}
+root - INFO - Wordle word: bryan
+root - INFO - Wordle word set: {'rider'}
+root - INFO - Wordle word: rider
+root - INFO - Input word: bones
+root - INFO - Input word: upper
+root - INFO - Input word: mixer
+root - INFO - Input word: tiger
+root - INFO - Input word: wider
+root - INFO - Input word: 
+root - INFO - Games Played: 0
+root - INFO - Win Percent: 0
+root - INFO - Win count: 0
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 0, '5': 0, '6': 0}
+root - INFO - Exited game
+root - INFO - Wordle word: rider
+root - INFO - Input word: bones
+root - INFO - Input word: tiger
+root - INFO - Wordle word: rider
+root - INFO - Input word: bones
+root - INFO - Wordle word: rider
+root - INFO - Input word: bones
+root - INFO - Input word: tyler
+root - INFO - Wordle word: rider
+root - INFO - Input word: bones
+root - INFO - Wordle word: rider
+root - INFO - Input word: bones
+root - INFO - Input word: tiger
+root - INFO - Input word: wider
+root - INFO - Input word: rider
+root - INFO - Word guessed
+root - INFO - Games Played: 1
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 1
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 1, '5': 0, '6': 0}
+root - INFO - Wordle word: rider
+root - INFO - Input word: 
+root - INFO - Games Played: 1
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 1
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 1, '5': 0, '6': 0}
+root - INFO - Exited game
+root - INFO - Wordle word set: {'greek'}
+root - INFO - Wordle word: greek
+root - INFO - Input word: sales
+root - INFO - Input word: upper
+root - INFO - Input word: order
+root - INFO - Input word: creek
+root - INFO - Input word: green
+root - INFO - Input word: 
+root - INFO - Games Played: 0
+root - INFO - Win Percent: 0
+root - INFO - Win count: 0
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 0, '5': 0, '6': 0}
+root - INFO - Exited game
+root - INFO - Wordle word: greek
+root - INFO - Input word: sales
+root - INFO - Input word: 	upper
+root - INFO - Input word: upper
+root - INFO - Input word: order
+root - INFO - Input word: creek
+root - INFO - Wordle word: greek
+root - INFO - Input word: sales
+root - INFO - Input word: upper
+root - INFO - Input word: order
+root - INFO - Input word: creek
+root - INFO - Wordle word: greek
+root - INFO - Input word: sales
+root - INFO - Input word: upper
+root - INFO - Input word: order
+root - INFO - Input word: creek
+root - INFO - Wordle word: greek
+root - INFO - Input word: sales
+root - INFO - Input word: upper
+root - INFO - Input word: order
+root - INFO - Input word: creek
+root - INFO - Input word: greek
+root - INFO - Word guessed
+root - INFO - Games Played: 1
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 1
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 0, '5': 1, '6': 0}
+root - INFO - Wordle word: greek
+root - INFO - Input word: 
+root - INFO - Games Played: 1
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 1
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 0, '5': 1, '6': 0}
+root - INFO - Exited game
+root - INFO - Wordle word: rider
+root - INFO - Input word: bones
+root - INFO - Input word: tiger
+root - INFO - Input word: wider
+root - INFO - Input word: rider
+root - INFO - Word guessed
+root - INFO - Games Played: 1
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 1
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 1, '5': 0, '6': 0}
+root - INFO - Wordle word: rider
+root - INFO - Input word: 
+root - INFO - Games Played: 1
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 1
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 1, '5': 0, '6': 0}
+root - INFO - Exited game
+root - INFO - Wordle word set: {'never'}
+root - INFO - Wordle word: never
+root - INFO - Input word: fares
+root - INFO - Input word: cover
+root - INFO - Input word: ever
+root - INFO - Input word: 
+root - INFO - Games Played: 0
+root - INFO - Win Percent: 0
+root - INFO - Win count: 0
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 0, '5': 0, '6': 0}
+root - INFO - Exited game
+root - INFO - Wordle word set: {'craig'}
+root - INFO - Wordle word: craig
+root - INFO - Input word: seats
+root - INFO - Input word: charm
+root - INFO - Input word: crack
+root - INFO - Input word: craig
+root - INFO - Word guessed
+root - INFO - Games Played: 1
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 1
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 1, '5': 0, '6': 0}
+root - INFO - Wordle word set: {'naval', 'craig'}
+root - INFO - Wordle word: naval
+root - INFO - Input word: shoes
+root - INFO - Input word: papua
+root - INFO - Input word: rally
+root - INFO - Input word: fatal
+root - INFO - Input word: naval
+root - INFO - Word guessed
+root - INFO - Games Played: 2
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 2
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 1, '5': 1, '6': 0}
+root - INFO - Wordle word set: {'naval', 'proxy', 'craig'}
+root - INFO - Wordle word: proxy
+root - INFO - Input word: tries
+root - INFO - Input word: frank
+root - INFO - Input word: promo
+root - INFO - Input word: proud
+root - INFO - Input word: proxy
+root - INFO - Word guessed
+root - INFO - Games Played: 3
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 3
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 1, '5': 2, '6': 0}
+root - INFO - Wordle word set: {'naval', 'proxy', 'craig', 'minds'}
+root - INFO - Wordle word: minds
+root - INFO - Input word: saves
+root - INFO - Input word: tours
+root - INFO - Input word: wings
+root - INFO - Input word: minds
+root - INFO - Word guessed
+root - INFO - Games Played: 4
+root - INFO - Win Percent: 100.0
+root - INFO - Win count: 4
+root - INFO - Counter: {'1': 0, '2': 0, '3': 0, '4': 2, '5': 2, '6': 0}
+root - INFO - Wordle word set: {'naval', 'share', 'minds', 'proxy', 'craig'}
+root - INFO - Wordle word: share
+root - INFO - Wordle word set: {'ought'}
